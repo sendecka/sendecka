@@ -1,4 +1,6 @@
-## Hi there 👋
+* 👋 Hi, I’m a_sendecka
+* 👀 I’m interested in 📊 Data Analyst | 📝 Data Science | 💻 Machine Learning
+* 🌱 I graduated University of Warmia and Mazury 
 
 <!--
 **sendecka/sendecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
