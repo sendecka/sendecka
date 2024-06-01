@@ -1,16 +1,16 @@
 👋 Hello! I am a postgraduate specializing in Data Science in Python. I am passionate about discovering insights from data and applying machine learning to solve real-world problems. I will be happy to use my skills in a dynamic and innovative environment.
 
 ## 🎓 Education:
-#### Postgraduate studies in Data Science in Python
+__Postgraduate studies in Data Science in Python__
 University of Warmia and Mazury in Olsztyn
 
-#### Postgraduate studies in Web Developer specialization
+__Postgraduate studies in Web Developer specialization__
 Postgraduate studies in Web Developer specialization
 
-#### Master's degree in Finance and Accounting (specialization: Accounting and Financial Audit)
+__Master's degree in Finance and Accounting (specialization: Accounting and Financial Audit)__
 Nicolaus Copernicus University in Toruń
 
-#### Bachelor's degree in Economic Sciences (specialization: business economics)
+__Bachelor's degree in Economic Sciences (specialization: business economics)__
 University of Warmia and Mazury in Olsztyn
 
 ## 📚 My Certifications  
