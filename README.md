@@ -2,16 +2,16 @@
 
 ## 🎓 Education:
 #### Postgraduate studies in Data Science in Python
-##### University of Warmia and Mazury in Olsztyn
+University of Warmia and Mazury in Olsztyn
 
 #### Postgraduate studies in Web Developer specialization
-##### Postgraduate studies in Web Developer specialization
+Postgraduate studies in Web Developer specialization
 
 #### Master's degree in Finance and Accounting (specialization: Accounting and Financial Audit)
-##### Nicolaus Copernicus University in Toruń
+Nicolaus Copernicus University in Toruń
 
 #### Bachelor's degree in Economic Sciences (specialization: business economics)
-##### University of Warmia and Mazury in Olsztyn
+University of Warmia and Mazury in Olsztyn
 
 ## 📚 My Certifications  
 * [Data Scientist in Python Associate Certificate](https://github.com/sendecka/My-Certifications/blob/main/certifications/DSA0010694514510.png) - DataCamp
@@ -25,10 +25,11 @@
 * [Data Analyst with R](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateDSWR.png) - DataCamp
 
 ## 🔍 Skills:
+Python, Seaborn, Matplotlib, Pandas, NumPy, R, SQL, Spark, Jupyter, Git, Power BI
 
 ## 💼 Projects:
-*
-*
-*
+* PROJECT 1
+* PROJECT 2
+* PROJECT 3
 
 ## 🔗 Connect:
