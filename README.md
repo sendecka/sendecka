@@ -1,16 +1,15 @@
-👋 Hello! I am a postgraduate specializing in Data Science in Python. I am passionate about discovering insights from data and applying machine learning to solve real-world problems. I will be happy to use my skills in a dynamic and innovative environment.
+👋 Hello! I am ready to take on new challenges in the field of data analysis, where I can utilize and develop the skills acquired during my postgraduate studies, while also leveraging my knowledge in finance, accounting, and business.
 
 ## 🎓 Education:
-__* Postgraduate studies in Data Science in Python__()
+* Postgraduate studies in Data Science in Python()
 University of Warmia and Mazury in Olsztyn
 
-__* Postgraduate studies in Web Developer specialization__()
-Postgraduate studies in Web Developer specialization
+* Postgraduate studies in Web Developer specialization
 
-__* Master's degree in Finance and Accounting (specialization: Accounting and Financial Audit)__()
+* Master's degree in Finance and Accounting (specialization: Accounting and Financial Audit)
 Nicolaus Copernicus University in Toruń
 
-__* Bachelor's degree in Economic Sciences (specialization: business economics)__()
+* Bachelor's degree in Economic Sciences (specialization: Business Economics)
 University of Warmia and Mazury in Olsztyn
 
 ## 📚 My Certifications  
@@ -28,7 +27,7 @@ University of Warmia and Mazury in Olsztyn
 Python, Seaborn, Matplotlib, Pandas, NumPy, R, SQL, Spark, Jupyter, Git, Power BI
 
 ## 💼 Projects:
-* PROJECT 1
+* [PROJECT 1 - Netflix](https://github.com/sendecka/MY_PROJECT-/blob/main/01%20PROJECT%20-%20NETFLIX/netflix.ipynb)
 * PROJECT 2
 * PROJECT 3
 
