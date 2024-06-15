@@ -1,15 +1,16 @@
-👋 Hello! I am ready to take on new challenges in the field of data analysis, where I can utilize and develop the skills acquired during my postgraduate studies, while also leveraging my knowledge in finance, accounting, and business.
+👋 Hello! I am ready to take on new challenges in the field of data analysis, leveraging my studies in finance and accounting, skills in Data Science, and business experience to support the company in making strategic decisions.
 
 ## 🎓 Education:
-* Postgraduate studies in Data Science in Python()
+* ***Postgraduate studies in Data Science in Python*** <br>
 University of Warmia and Mazury in Olsztyn
 
-* Postgraduate studies in Web Developer specialization
+* ***Postgraduate studies in Web Developer specialization*** <br>
+WSB University in Gdańsk
 
-* Master's degree in Finance and Accounting (specialization: Accounting and Financial Audit)
+* ***Master's degree in Finance and Accounting (specialization: Accounting and Financial Audit)*** <br>
 Nicolaus Copernicus University in Toruń
 
-* Bachelor's degree in Economic Sciences (specialization: Business Economics)
+* ***Bachelor's degree in Economic Sciences (specialization: Business Economics)*** <br>
 University of Warmia and Mazury in Olsztyn
 
 ## 📚 My Certifications  
