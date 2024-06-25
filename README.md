@@ -30,6 +30,5 @@ Python, Seaborn, Matplotlib, Pandas, NumPy, R, SQL, Spark, Jupyter, Git, Power B
 ## 💼 Projects:
 * [PROJECT 1 - Netflix Data Analysis](https://github.com/sendecka/MY_PROJECT-/blob/main/01%20PROJECT%20-%20NETFLIX/netflix.ipynb)
 * [PROJECT 2 - Nobel Prize Data Analysis](https://github.com/sendecka/MY_PROJECT-/blob/main/02%20PROJECT%20-%20NOBEL/nobel.ipynb)
-* PROJECT 3
 
 ## 🔗 Connect:
