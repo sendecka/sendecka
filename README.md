@@ -25,7 +25,7 @@ University of Warmia and Mazury in Olsztyn
 * [Data Analyst with R](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateDSWR.png) - DataCamp
 
 ## 🔍 Skills:
-Python, Seaborn, Matplotlib, Pandas, NumPy, R, SQL, Spark, Jupyter, Git, Power BI
+Excel, Python, Seaborn, Matplotlib, Pandas, NumPy, R, SQL, Spark, Jupyter, Git, Power BI
 
 ## 💼 Projects:
 * [PROJECT 1 - Netflix Data Analysis](https://github.com/sendecka/MY_PROJECT-/blob/main/01%20PROJECT%20-%20NETFLIX/netflix.ipynb)
