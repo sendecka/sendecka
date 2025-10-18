@@ -1,10 +1,6 @@
-# 👋 Hi, I'm Aleksandra
-
+## 👋 Hi, I'm Aleksandra
 ## 🎯 Aspiring Data Analyst / Data Scientist | Excel | Python | SQL | Data Visualization
-
 I am ready to take on new challenges in the field of data analysis, leveraging my studies in finance and accounting, skills in Data Science, and business experience to support the company in making strategic decisions. My goal is to leverage data to uncover insights, optimize business decisions, and create meaningful impact through analytics
-
----
 
 ## 🧠 About Me
 🎓 ***Postgraduate studies in Data Science in Python*** <br>
@@ -21,8 +17,6 @@ University of Warmia and Mazury in Olsztyn
 
 💼 Combining analytical thinking, business understanding, and programming skills to solve real-world problems.
 
----
-
 ## 📚 My Certifications  
 * [Data Scientist in Python Associate Certificate](https://github.com/sendecka/My-Certifications/blob/main/certifications/DSA0010694514510.png) - DataCamp
 * [Data Analyst Associate Certificate](https://github.com/sendecka/My-Certifications/blob/main/certifications/DAA0018200186982.png) - DataCamp
@@ -35,8 +29,6 @@ University of Warmia and Mazury in Olsztyn
 * [Data Analyst with R](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateDSWR.png) - DataCamp
 * [Excel Fundamentals]() - DataCamp
 
----
-
 ## 🧰 Technical Skills
 
 **Languages & Tools:**  
@@ -44,8 +36,6 @@ University of Warmia and Mazury in Olsztyn
 
 **Python Libraries:**  
 `pandas` | `NumPy` | `matplotlib` | `seaborn` | `scikit-learn` | `plotly`
-
----
 
 ## 📂 Featured Projects 
 
@@ -57,8 +47,6 @@ University of Warmia and Mazury in Olsztyn
 | 📊 ** ** |   |   |
 
 *(More projects coming soon!)*
-
----
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/aleksandra-sendecka/)  
