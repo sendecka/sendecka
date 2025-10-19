@@ -18,16 +18,18 @@ University of Warmia and Mazury in Olsztyn
 💼 Combining analytical thinking, business understanding, and programming skills to solve real-world problems.
 
 ## 📚 My Certifications  
-* [Data Scientist in Python Associate Certificate](https://github.com/sendecka/My-Certifications/blob/main/certifications/DSA0010694514510.png) - DataCamp
-* [Data Analyst Associate Certificate](https://github.com/sendecka/My-Certifications/blob/main/certifications/DAA0018200186982.png) - DataCamp
-* [Data Engineer Associate Certificate](https://github.com/sendecka/My-Certifications/blob/main/certifications/DEA0019330320173.png) - DataCamp
+* [Data Scientist in Python Associate Certificate](https://www.datacamp.com/certificate/DSA0010694514510) - DataCamp
+* [Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0018200186982) - DataCamp
+* [Data Engineer Associate Certificate](https://www.datacamp.com/certificate/DEA0019330320173) - DataCamp
 
 ## 📜 Completed educational paths
-* [Associate Data Scientist in Python](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificate%20(1).png) - DataCamp
-* [Associate Data Analyst in SQL](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateSQL.png) - DataCamp
-* [Data Analyst with Python](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateDAWP.png) - DataCamp
-* [Data Analyst with R](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateDSWR.png) - DataCamp
+* [Associate Data Scientist in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/6b3ff9409e00624adc1cd2bd28385ea4c4a27906) - DataCamp
+* [Associate Data Analyst in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/e285bb3e29b7cc5722c14b951c6f59382d3cef83) - DataCamp
+* [Data Analyst with Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/44a9492c4569ff2cac8ea505ec80b658266815fe) - DataCamp
+* [Data Analyst with R](https://www.datacamp.com/completed/statement-of-accomplishment/track/85cd8b027f64c344c83f846bf4dfefc8f6a43767) - DataCamp
 * [Excel Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/88b5860f55990a2b3ddd7cbbd2f7337e74af5e51) - DataCamp
+
+*[(More...)](https://github.com/sendecka/My-Certifications)*
 
 ## 🧰 Technical Skills
 
