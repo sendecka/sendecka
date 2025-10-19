@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Aleksandra
-## 🎯 Aspiring Data Analyst / Data Scientist | Excel | Python | SQL | Data Visualization
+🎯 Aspiring Data Analyst / Data Scientist | Excel | Python | SQL | Data Visualization
 I am ready to take on new challenges in the field of data analysis, leveraging my studies in finance and accounting, skills in Data Science, and business experience to support the company in making strategic decisions. My goal is to leverage data to uncover insights, optimize business decisions, and create meaningful impact through analytics
 
 ## 🧠 About Me
@@ -27,7 +27,7 @@ University of Warmia and Mazury in Olsztyn
 * [Associate Data Analyst in SQL](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateSQL.png) - DataCamp
 * [Data Analyst with Python](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateDAWP.png) - DataCamp
 * [Data Analyst with R](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateDSWR.png) - DataCamp
-* [Excel Fundamentals]() - DataCamp
+* [Excel Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/88b5860f55990a2b3ddd7cbbd2f7337e74af5e51) - DataCamp
 
 ## 🧰 Technical Skills
 
