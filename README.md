@@ -54,5 +54,6 @@ University of Warmia and Mazury in Olsztyn
 - 💼 [LinkedIn](https://www.linkedin.com/in/aleksandra-sendecka/)  
 - 💻 [GitHub](https://github.com/sendecka)  
 - ✉️ [Email](olkaxsen@gmail.com)
+- 🔍 [DataCamp](https://www.datacamp.com/portfolio/aleksandrasendecka)
 ---
 > “Data is a tool for better decisions — not just numbers on a screen.”
