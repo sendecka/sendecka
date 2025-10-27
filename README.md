@@ -46,7 +46,10 @@ University of Warmia and Mazury in Olsztyn
 |----------|--------------|-------|
 | 🏦 **[PROJECT 1 - Netflix Data Analysis](https://github.com/sendecka/MY_PROJECT-/blob/main/01%20PROJECT%20-%20NETFLIX/netflix.ipynb)** | This project aims to analyze a dataset of Netflix shows and movies to uncover interesting insights and patterns. | Python, pandas, matplotlib, seaborn |
 | 🔍 **[PROJECT 2 - Nobel Prize Data Analysis](https://github.com/sendecka/MY_PROJECT-/blob/main/02%20PROJECT%20-%20NOBEL/nobel.ipynb)** | Analysis of dataset prize winners from the outset of the awards from 1901 to 2023 | Python, pandas, seaborn, numpy, matplotlib.pyplot |
+| 🪑 Project Title: Furniture Sales Performance Dashboard (Excel) |   |  Excel |
 | ⚙️ ** ** |   |   |
+| 📊 ** ** |   |   |
+| 📊 ** ** |   |   |
 | 📊 ** ** |   |   |
 
 *(More projects coming soon!)*
