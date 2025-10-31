@@ -46,7 +46,7 @@ University of Warmia and Mazury in Olsztyn
 |----------|--------------|-------|
 | 🪑 Furniture Sales Performance Dashboard |   |  Excel |
 | 💼 Customer Segmentation & Insights Dashboard |   | Excel  |
-| 📊 ** ** |   |   |
+| 🧾 Sales Dashboard in Excel |   | Excel  |
 | 📊 ** ** |   |   |
 | 📊 ** ** |   |   |
 | 🏦 **[PROJECT 1 - Netflix Data Analysis](https://github.com/sendecka/MY_PROJECT-/blob/main/01%20PROJECT%20-%20NETFLIX/netflix.ipynb)** | This project aims to analyze a dataset of Netflix shows and movies to uncover interesting insights and patterns. | Python, pandas, matplotlib, seaborn |
