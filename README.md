@@ -42,12 +42,12 @@ University of Warmia and Mazury in Olsztyn
 
 ## 📂 Featured Projects 
 
-| Project | Description | Tools |
+| ⚙️ Project | 🧩 Business Problem | 📊 Tools |
 |----------|--------------|-------|
-| 🪑 Furniture Sales Performance Dashboard |   |  Excel |
-| 💼 Customer Segmentation & Insights Dashboard |   | Excel  |
-| 🧾 Sales Dashboard in Excel |   | Excel  |
-| 📊 ** ** |   |   |
+| 🪑 Furniture Sales Performance Dashboard | A U.S.-based furniture company aims to understand how different regions, product categories, and sales channels impact overall financial performance.  |  Excel |
+| 💼 Customer Segmentation & Insights Dashboard | The goal of this project was to understand and segment customers based on key demographic and behavioral attributes. By analyzing customer data, the objective was to identify patterns in Age, Income, Loyalty, and Tenure to support better marketing.  | Excel  |
+| 🧾 YoY Sales Analysis & Trends Analytics Dashboard | A retail company needed a visual tool to monitor performance across product categories, customer segments, and regions - helping identify trends, high-value customers, and underperforming products.  | Excel  |
+| 💼 Sales KPIs & Insights Dashboard | A multinational retail company wanted to monitor sales performance across countries, products, and suppliers in real time. The goal was to understand revenue trends, top-performing categories, and the impact of transaction types and regional sales to improve strategic decision-making and supplier management.  | Excel  |
 | 📊 ** ** |   |   |
 | 🏦 **[PROJECT 1 - Netflix Data Analysis](https://github.com/sendecka/MY_PROJECT-/blob/main/01%20PROJECT%20-%20NETFLIX/netflix.ipynb)** | This project aims to analyze a dataset of Netflix shows and movies to uncover interesting insights and patterns. | Python, pandas, matplotlib, seaborn |
 | 🔍 **[PROJECT 2 - Nobel Prize Data Analysis](https://github.com/sendecka/MY_PROJECT-/blob/main/02%20PROJECT%20-%20NOBEL/nobel.ipynb)** | Analysis of dataset prize winners from the outset of the awards from 1901 to 2023 | Python, pandas, seaborn, numpy, matplotlib.pyplot |
