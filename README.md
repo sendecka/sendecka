@@ -44,6 +44,7 @@ University of Warmia and Mazury in Olsztyn
 
 | ⚙️ Project | 🧩 Business Problem | 📊 Tools |
 |----------|--------------|-------|
+| 🏥 Patient Visits Analytics Dashboard  | The hospital struggled with messy and unstructured patient visit data, making it difficult to track.  | Excel  |
 | 🪑 Furniture Sales Performance Dashboard | A U.S.-based furniture company aims to understand how different regions, product categories, and sales channels impact overall financial performance.  |  Excel |
 | 💼 Customer Segmentation & Insights Dashboard | The goal of this project was to understand and segment customers based on key demographic and behavioral attributes. By analyzing customer data, the objective was to identify patterns in Age, Income, Loyalty, and Tenure to support better marketing.  | Excel  |
 | 🧾 YoY Sales Analysis & Trends Analytics Dashboard | A retail company needed a visual tool to monitor performance across product categories, customer segments, and regions - helping identify trends, high-value customers, and underperforming products.  | Excel  |
