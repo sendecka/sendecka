@@ -21,6 +21,7 @@ University of Warmia and Mazury in Olsztyn
 * [Data Scientist in Python Associate Certificate](https://www.datacamp.com/certificate/DSA0010694514510) - DataCamp
 * [Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0018200186982) - DataCamp
 * [Data Engineer Associate Certificate](https://www.datacamp.com/certificate/DEA0019330320173) - DataCamp
+* [Data analysis in Microsoft Excel](https://www.linkedin.com/in/aleksandra-sendecka/details/certifications/1760298426259/single-media-viewer/?profileId=ACoAADonm-sBx1XvK_6snRTchw_PKkMbq_q9jKg) - KajoData
 
 ## 📜 Completed educational paths
 * [Associate Data Scientist in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/6b3ff9409e00624adc1cd2bd28385ea4c4a27906) - DataCamp
@@ -28,7 +29,7 @@ University of Warmia and Mazury in Olsztyn
 * [Data Analyst with Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/44a9492c4569ff2cac8ea505ec80b658266815fe) - DataCamp
 * [Data Analyst with R](https://www.datacamp.com/completed/statement-of-accomplishment/track/85cd8b027f64c344c83f846bf4dfefc8f6a43767) - DataCamp
 * [Excel Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/88b5860f55990a2b3ddd7cbbd2f7337e74af5e51) - DataCamp
-* [Data analysis in Microsoft Excel](https://www.linkedin.com/in/aleksandra-sendecka/details/certifications/1760298426259/single-media-viewer/?profileId=ACoAADonm-sBx1XvK_6snRTchw_PKkMbq_q9jKg) - KajoData
+
 
 *[(More...)](https://github.com/sendecka/My-Certifications)*
 
