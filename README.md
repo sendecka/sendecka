@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aleksandra
 🎯 Aspiring Data Analyst / Data Scientist | Excel | Python | SQL | Data Visualization
-I am ready to take on new challenges in the field of data analysis, leveraging my studies in finance and accounting, skills in Data Science, and business experience to support the company in making strategic decisions. My goal is to leverage data to uncover insights, optimize business decisions, and create meaningful impact through analytics
+Data Analyst with experience in sales analysis, demand forecasting, and inventory optimization in e-commerce. I combine analytical and business-focused thinking to deliver data-driven insights using Excel, SQL, Power BI, and Python. My background in finance and accounting, supported by postgraduate studies in data science and hands-on e-commerce experience, enables me to connect technical analysis with real business needs. My goal is to leverage data to uncover insights, optimize business decisions, and create meaningful impact through analytics
 
 ## 🧠 About Me
 🎓 ***Postgraduate studies in Data Science in Python*** <br>
@@ -35,19 +35,19 @@ University of Warmia and Mazury in Olsztyn
 
 ## 🧰 Technical Skills
 
-**Languages & Tools:**  
+**Languages & Tools:** <br>
 `Excel` | `Power BI` | `SQL` | `Python` | `R` | `Git` | `Jupyter Notebook` | `Spark`
 
-**Microsoft Excel:**
+**Microsoft Excel:** <br>
 `Power Query` | `Pivot Tables` | `Dashboards` | `Data preparation` | `Data analysis` | `Visualization`
 
-**Microsoft Power BI**
+**Microsoft Power BI** <br>
 `Power Query` | `Interactive dashboards` | `Data Cleaning` | `DAX - basics` 
 
-**SQL**
+**SQL** <br>
 `SELECT` | `JOIN` | `GROUP BY` | `WHERE` | `Aggregations` 
 
-**Python Libraries:**  
+**Python Libraries:** <br>
 `Pandas` | `NumPy` | `Matplotlib` | `seaborn` | `scikit-learn` | `plotly`
 
 ## 📂 Featured Projects 
