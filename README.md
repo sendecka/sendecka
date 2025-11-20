@@ -36,10 +36,19 @@ University of Warmia and Mazury in Olsztyn
 ## 🧰 Technical Skills
 
 **Languages & Tools:**  
-`Excel` | `Python` | `SQL` | `Power BI` | `R` | `Git` | `Jupyter` | `Spark`
+`Excel` | `Power BI` | `SQL` | `Python` | `R` | `Git` | `Jupyter Notebook` | `Spark`
+
+**Microsoft Excel:**
+`Power Query` | `Pivot Tables` | `Dashboards` | `Data preparation` | `Data analysis` | `Visualization`
+
+**Microsoft Power BI**
+`Power Query` | `Interactive dashboards` | `Data Cleaning` | `DAX - basics` 
+
+**SQL**
+`SELECT` | `JOIN` | `GROUP BY` | `WHERE` | `Aggregations` 
 
 **Python Libraries:**  
-`pandas` | `NumPy` | `matplotlib` | `seaborn` | `scikit-learn` | `plotly`
+`Pandas` | `NumPy` | `Matplotlib` | `seaborn` | `scikit-learn` | `plotly`
 
 ## 📂 Featured Projects 
 
