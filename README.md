@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Aleksandra
-🎯 Aspiring Data Analyst / Data Scientist | Excel | Python | SQL | Data Visualization
+🎯 Aspiring Data Analyst / Data Scientist | Excel | Python | SQL | Data Visualization <br>
 Data Analyst with experience in sales analysis, demand forecasting, and inventory optimization in e-commerce. I combine analytical and business-focused thinking to deliver data-driven insights using Excel, SQL, Power BI, and Python. My background in finance and accounting, supported by postgraduate studies in data science and hands-on e-commerce experience, enables me to connect technical analysis with real business needs. My goal is to leverage data to uncover insights, optimize business decisions, and create meaningful impact through analytics
 
 ## 🧠 About Me
