@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Aleksandra
-🎯 Aspiring Data Analyst / Data Scientist | Excel | Python | SQL | Data Visualization <br>
-Data Analyst with experience in sales analysis, demand forecasting, and inventory optimization in e-commerce. I combine analytical and business-focused thinking to deliver data-driven insights using Excel, SQL, Power BI, and Python. My background in finance and accounting, supported by postgraduate studies in data science and hands-on e-commerce experience, enables me to connect technical analysis with real business needs. My goal is to leverage data to uncover insights, optimize business decisions, and create meaningful impact through analytics
+🎯 Data Analyst | Excel • Power BI • SQL • Python <br> 
+<br>
+Data Analyst with experience in sales analysis, demand forecasting, and inventory optimization in e-commerce. I combine analytical and business-focused thinking to deliver data-driven insights using Excel, SQL, Power BI, and Python. My background in finance and accounting, supported by postgraduate studies in data science and hands-on e-commerce experience, enables me to connect technical analysis with real business needs. My goal is to leverage data to uncover insights, optimize business decisions, and create meaningful impact through analytics.
 
 ## 🧠 About Me
 🎓 ***Postgraduate studies in Data Science in Python*** <br>
@@ -18,6 +19,8 @@ University of Warmia and Mazury in Olsztyn
 💼 Combining analytical thinking, business understanding, and programming skills to solve real-world problems.
 
 ## 📚 My Certifications  
+* [Mid Data Analyst](https://www.linkedin.com/in/aleksandra-sendecka/overlay/Certifications/1190576222/treasury/?profileId=ACoAADonm-sBx1XvK_6snRTchw_PKkMbq_q9jKg) - DataDo
+* [Power BI for Data Analysts](https://www.linkedin.com/in/aleksandra-sendecka/overlay/Certifications/933497245/treasury/?profileId=ACoAADonm-sBx1XvK_6snRTchw_PKkMbq_q9jKg) - 🦸 Data Heroes -Dagmara Anuszczyk
 * [Data Scientist in Python Associate Certificate](https://www.datacamp.com/certificate/DSA0010694514510) - DataCamp
 * [Data Analyst Associate Certificate](https://www.datacamp.com/certificate/DAA0018200186982) - DataCamp
 * [Data Engineer Associate Certificate](https://www.datacamp.com/certificate/DEA0019330320173) - DataCamp
@@ -42,7 +45,7 @@ University of Warmia and Mazury in Olsztyn
 `Power Query` | `Pivot Tables` | `Dashboards` | `Data preparation` | `Data analysis` | `Visualization`
 
 **Microsoft Power BI** <br>
-`Power Query` | `Interactive dashboards` | `Data Cleaning` | `DAX - basics` 
+`Power Query` | `Interactive dashboards` | `Data Cleaning` | `DAX` 
 
 **SQL** <br>
 `SELECT` | `JOIN` | `GROUP BY` | `WHERE` | `Aggregations` 
@@ -71,8 +74,5 @@ University of Warmia and Mazury in Olsztyn
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/aleksandra-sendecka/)  
-- 💻 [GitHub](https://github.com/sendecka)  
-- ✉️ [Email](olkaxsen@gmail.com)
-- 🔍 [DataCamp](https://www.datacamp.com/portfolio/aleksandrasendecka)
 ---
 > “Data is a tool for better decisions — not just numbers on a screen.”
